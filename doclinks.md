@@ -490,6 +490,7 @@ These apps will help you get the most out of the docs, by providing a search ind
 * https://github.com/sqlitebrowser/sqlitebrowser
 * https://github.com/mackyle/sqlite
 * https://github.com/mapbox/node-sqlite3
+* https://github.com/fnc12/sqlite_orm
 # font render
 * https://github.com/harfbuzz/harfbuzz
 * https://github.com/unicode-org/icu
