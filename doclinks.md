@@ -1,4 +1,4 @@
-# java
+# Java
 * https://docs.oracle.com/javase/tutorial/
 * https://docs.oracle.com/javase/8/docs/
 * https://docs.oracle.com/en/java/javase/15/docs/api/index.html
@@ -24,7 +24,8 @@
 * https://github.com/powermock/powermock
 
 
-# system automation lib
+# System
+### automation lib
 * https://github.com/jaywcjlove/hotkeys
 * https://github.com/zeth/inputs
 * https://github.com/dmauro/Keypress
@@ -34,12 +35,13 @@
 * https://github.com/kwhat/jnativehook
 * https://github.com/tulskiy/jkeymaster
 * https://github.com/Lexikos/AutoHotkey_L
+* https://github.com/junegunn/fzf
 
-# system lib
+### libs
 * https://github.com/google/cpu_features
 
 
-# cpp
+# CPP
 ### doc
 * https://en.cppreference.com/w/
 * http://www.cplusplus.com/
@@ -48,7 +50,7 @@
 ### design pattern
 * https://github.com/JakubVojvoda/design-patterns-cpp
 * https://github.com/sftrabbit/CppPatterns-Patterns
-# node.js
+# Node.js
 * https://nodejs.org/en/docs/
 * https://www.typescriptlang.org/docs/
 * https://github.com/basarat/typescript-book
@@ -71,7 +73,7 @@
 * https://github.com/getify/You-Dont-Know-JS
 * https://github.com/survivejs/webpack-book
 
-# mozilla docs
+# Mozilla docs
 
 * https://kapeli.com/mdn_offline
 
@@ -100,7 +102,7 @@ These apps will help you get the most out of the docs, by providing a search ind
 * https://developer.mozilla.org/en-US/docs/Web/API
 * https://developer.mozilla.org/en-US/docs/MDN/About#Downloading_content
 
-# opengl
+# OpenGL
 * https://www.khronos.org/opengl/wiki/
 * https://github.com/BSVino/docs.gl
 * https://developer.arm.com/solutions/graphics-and-gaming/apis/opengl-es
@@ -108,9 +110,9 @@ These apps will help you get the most out of the docs, by providing a search ind
 * https://discourse.libsdl.org/
 
 * https://github.com/xelatihy/yocto-gl
-https://github.com/google/angle
+* https://github.com/google/angle
 
-# gnu
+# GNU
 * https://git-scm.com/docs
 * http://www.gnu.org/software/
 * http://www.gnu.org/software/binutils/
@@ -125,14 +127,21 @@ https://github.com/google/angle
 * http://sourceware.org/gdb/download/onlinedocs/
 * http://sourceware.org/gdb/documentation/
 
-# net
+
+### cmake
+* https://github.com/ttroy50/cmake-examples
+* https://github.com/onqtam/awesome-cmake
+* https://github.com/Akagi201/learning-cmake
+* https://github.com/mbcrawfo/GenericMakefile
+
+# Net utils
 * https://curl.haxx.se/docs/manual.html
 * https://github.com/curl/curl
 * https://github.com/aria2/aria2
 * https://nmap.org/book/toc.html
 * http://www.tcpdump.org/manpages/
 
-# bash
+# Bash
 * https://github.com/emcrisostomo/fswatch
 * https://github.com/learnbyexample/Command-line-text-processing
 * https://tiswww.case.edu/php/chet/bash/bashref.html
@@ -174,7 +183,7 @@ https://github.com/google/angle
 * https://github.com/herrbischoff/awesome-macos-command-line
 * https://github.com/fengyuhetao/shell
 
-# compiler
+# Compiler
 * https://llvm.org/docs/
 * https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 * https://github.com/llvm/llvm-project
@@ -184,10 +193,15 @@ https://github.com/google/angle
 
 * https://github.com/fool2fish/dragon-book-exercise-answers
 
-# math
+# Math
 * https://mathworld.wolfram.com/
+* https://eigen.tuxfamily.org
+* https://github.com/google/mathfu
+* https://github.com/maciejczyzewski/libchaos
+* https://github.com/chancejs/chancejs
+* https://github.com/cpmech/gosl
 
-# graphic engine
+# Graphic Engine
 * https://github.com/mrdoob/three.js
 * https://github.com/BabylonJS/Babylon.js
 * https://github.com/EpicGames/UnrealEngine
@@ -203,7 +217,7 @@ https://github.com/google/angle
 * https://github.com/godotengine/godot
 * https://github.com/CesiumGS/cesium
 
-# cpp lib
+# CPP lib
 
 * https://github.com/colin-scott/interactive_latencies
 
@@ -238,6 +252,13 @@ https://github.com/google/angle
 * https://github.com/3b1b/manim
 * https://github.com/aseprite/aseprite
 
+### gui
+* https://github.com/idea4good/GuiLite
+* https://github.com/polybar/polybar
+* https://github.com/texus/TGUI
+* https://github.com/ocornut/imgui
+* https://github.com/thedmd/imgui-node-editor
+* https://github.com/google/flatui
 ### graphics lib
 
 
@@ -248,19 +269,12 @@ https://github.com/google/angle
 * https://github.com/gongminmin/
 
 * https://github.com/lettier/3d-game-shaders-for-beginners
-* https://github.com/idea4good/GuiLite
-* https://github.com/polybar/polybar
-* https://github.com/texus/TGUI
-* https://github.com/ocornut/imgui
-* https://github.com/thedmd/imgui-node-editor
-* https://github.com/google/flatui
+
 * https://github.com/asmuth/clip
 * https://github.com/timhutton/opengl-canvas-wasm
 
 * https://github.com/liballeg/allegro5
 * https://github.com/memononen/nanovg
-
-* https://github.com/jkuhlmann/cgltf
 
 
 * https://github.com/tinghuiz/SfMLearner
@@ -296,13 +310,6 @@ https://github.com/google/angle
 * https://github.com/ithewei/libhv
 * https://github.com/libuv/libuv
 
-### math
-* https://eigen.tuxfamily.org
-* https://github.com/google/mathfu
-* https://github.com/maciejczyzewski/libchaos
-* https://github.com/chancejs/chancejs
-* https://github.com/cpmech/gosl
-
 ### thread
 * https://github.com/google/marl
 
@@ -312,7 +319,6 @@ https://github.com/google/angle
 * https://github.com/leandromoreira/ffmpeg-libav-tutorial
 * https://github.com/leandromoreira/digital_video_introduction
 * https://github.com/tanersener/mobile-ffmpeg
-
 
 ### http
 * https://github.com/an-tao/drogon
@@ -330,10 +336,7 @@ https://github.com/google/angle
 * https://github.com/protocolbuffers/protobuf
 * https://github.com/google/flatbuffers
 
-# other
-* https://www.ibm.com/support/knowledgecenter
-
-# spatial
+# Spatial
 * https://github.com/libspatialindex/libspatialindex
 * https://github.com/brandonpelfrey/Fast-BVH
 * https://github.com/jtsiomb/kdtree
@@ -341,7 +344,7 @@ https://github.com/google/angle
 * https://github.com/Kronuz/cpp-btree
 * https://github.com/nushoin/RTree
 
-# algorithm
+# Algorithm
 * https://github.com/TheAlgorithms/C-Plus-Plus
 * https://github.com/tianyicui/DP-Book
 * https://github.com/DionysiosB/CodeForces
@@ -383,10 +386,21 @@ https://github.com/google/angle
 ### gesture recognition toolkit
 * https://github.com/nickgillian/grt
 
-# android
+# Android
 * https://github.com/CainKernel/CainCamera
 * https://github.com/android/ndk-samples
 
+# Gltf
+* https://github.com/KhronosGroup/glTF-Blender-IO
+* https://github.com/microsoft/glTF-SDK
+* https://github.com/microsoft/glTF-Toolkit
+* https://github.com/jessey-git/fx-gltf
+* https://github.com/KhronosGroup/glTF
+* https://github.com/BabylonJS/Exporters
+* https://github.com/syoyo/tinygltf
+* https://github.com/tinyobjloader/tinyobjloader
+* https://github.com/assimp/assimp
+* https://github.com/jkuhlmann/cgltf
 # CAD
 * https://github.com/xBimTeam/XbimGeometry
 * https://github.com/xeokit/xeokit-sdk
@@ -397,9 +411,6 @@ https://github.com/google/angle
 * https://github.com/tpaviot/oce
 * https://github.com/blender/blender
 * https://github.com/domlysz/BlenderGIS
-* https://github.com/KhronosGroup/glTF-Blender-IO
-* https://github.com/microsoft/glTF-SDK
-* https://github.com/microsoft/glTF-Toolkit
 * https://github.com/lvk88/OccTutorial
 * https://github.com/FreeCAD/FreeCAD
 * https://github.com/d3/d3-geo-polygon
@@ -422,30 +433,17 @@ https://github.com/google/angle
 * https://github.com/msokalski/delabella
 * https://github.com/mlivesu/cinolib
 * https://github.com/pmp-library/pmp-library
-* https://github.com/jessey-git/fx-gltf
-
+### curve
 * https://github.com/orbingol/NURBS-Python
 * https://github.com/JPBotelho/Catmull-Rom-Splines
 * https://github.com/Pomax/bezierinfo
 * https://github.com/Pomax/BezierInfo-2
 
+### FK/IK
 * https://github.com/chinedufn/skeletal-animation-system
 * https://github.com/chinedufn/mat4-to-dual-quat
 
-* https://github.com/KhronosGroup/glTF
-* https://github.com/BabylonJS/Exporters
-* https://github.com/syoyo/tinygltf
-* https://github.com/tinyobjloader/tinyobjloader
-* https://github.com/assimp/assimp
-
-### cmake
-* https://github.com/ttroy50/cmake-examples
-* https://github.com/onqtam/awesome-cmake
-* https://github.com/Akagi201/learning-cmake
-* https://github.com/mbcrawfo/GenericMakefile
-
-
-# cloud
+# Cloud
 * https://github.com/wsargent/docker-cheat-sheet
 * https://github.com/sous-chefs/docker
 * https://www.docker.com/
@@ -454,8 +452,6 @@ https://github.com/google/angle
 * https://kubernetes.io
 * https://developer.aliyun.com/packageSearch
 
-# go
-* https://github.com/junegunn/fzf
 
 # physics
 * https://github.com/google/liquidfun
