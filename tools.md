@@ -170,8 +170,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 * https://nodejs.org/en/docs/
 
-## other doc
-* https://www.ibm.com/support/knowledgecenter
+## gl doc
+
 * http://docs.gl/
 * https://developer.arm.com/solutions/graphics-and-gaming/apis/opengl-es
 * https://developer.apple.com/library/archive/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html
@@ -214,3 +214,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 * gcc/g++
 * llvm
 * flex/bison
+
